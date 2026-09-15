@@ -5,3 +5,6 @@
 - Project initiated
 - Team members assigned
 - Initial budget approved: $50,000
+
+
+---
